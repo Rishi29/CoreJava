@@ -1,0 +1,5 @@
+Nested  class inside  interface
+
+Interface M{
+class A{}
+}
