@@ -1,5 +1,17 @@
 package nestedInterface;
 
+/**
+ * Nested Interface: Interface declared inside another interface or class. It is used to group the 
+ * related interface so that they are easy to maintain. The nested interface must be referred by the outer 
+ * interface or class. It cannot be accessed directly. 
+ * 
+ * point to remember:
+ * 
+ * Nested interface must be public if it is declared inside the interface but it can have any access modifier
+ * if declared within the class.
+ * customException
+ * Nested interfaces are declared static implicitely
+ * **/
 
 
 

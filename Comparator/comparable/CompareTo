@@ -1,0 +1,8 @@
+CompareTo is used order the object of user-defined class. It provide single sorting
+sequence. i.e we can sort the element based on single data member only (eg. name, roll no, age)
+
+syntax: public int compareTo(Object obj)
+
+compareTo method compare "this" object with the specified object for order. Returns a negative integer, zero 
+or a positive integer a "this" object is less than, equal to, or greater than the specified object. Basedd on
+this output Collections.sort() sort the element.  
